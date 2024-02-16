@@ -3,8 +3,8 @@ img{
     width: 100%;
 }
 
-.self-img{
-
+.self-img img{
+    filter : brightness(30%);
 }
 
 .text{
