@@ -4,6 +4,7 @@
 
 .self-img1 img{
     height: 738px;
+    filter : brightness(30%);
 }
 
 .self-form{
