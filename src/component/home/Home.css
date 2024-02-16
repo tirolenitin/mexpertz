@@ -1,0 +1,44 @@
+img{
+    height: 70vh;
+    width: 100%;
+}
+
+.self-img{
+
+}
+
+.text{
+    color: white;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+text , .btn{
+    color: white;
+    border: 1px solid white;
+    margin: 5px;
+}
+
+.btn:hover{
+    color: white;
+    border: 1px solid white;
+    background-color: black;
+}
+
+.btn1{
+    color: black;
+    background-color:moccasin;
+}
+
+.btn1:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+}
+.text h1{
+    font-size: 60px;
+}
+#home{
+    position: relative;
+}

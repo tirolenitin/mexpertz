@@ -1,0 +1,24 @@
+#menu{
+    height: 800px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.menu-img{
+    height: 200px;
+    width: 100;
+}
+.menu-box{
+    height: 200px;
+    width: 33.3%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.self-price{
+    color: goldenrod;
+}

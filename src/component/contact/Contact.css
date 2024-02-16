@@ -1,0 +1,47 @@
+#contact{
+    position: relative;
+}
+
+.self-img1 img{
+    height: 738px;
+}
+
+.self-form{
+    position:absolute;
+    top: 20%;
+    left: 25%;
+    background-color: black;
+    color: white;
+    height: 500px;
+    text-align: center;
+    width: 300px;
+    border: 1px solid white;
+    opacity: 0.9;
+}
+
+.self-form h5{
+    margin: 35px;
+}
+.self-form1{
+    position:absolute;
+    top: 20%;
+    opacity: 0.9;
+    text-align: center;
+    background-color: black;
+    left: 55%;
+    color: white;
+    height: 500px;
+    width: 300px;
+    border: 1px solid white;
+}
+
+.self-form1 h5{
+    margin-top: 35px;
+}
+
+.self-form2  input{
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+    margin: 10px;
+}

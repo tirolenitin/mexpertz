@@ -1,0 +1,24 @@
+.self{
+    margin: 1%;
+    height: 10vh;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    
+}
+.self-logo{
+    margin-top: 19px;
+    float: left;
+    width: 30%;
+}
+.self-navbar{
+    font-weight: 400;
+    left: 20%;
+    float: rigth;
+    text-decoration: none;
+    width: 60%;
+}
+.self-navbar a{
+    
+    color: black;
+}
